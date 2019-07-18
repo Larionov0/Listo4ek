@@ -53,5 +53,3 @@ for unit in data:
                 print("|")
         else:
             print(par + " :  ", data[unit][par])
-
-input()
