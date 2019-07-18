@@ -1,0 +1,7 @@
+name, place, damage, type, control, effects(a;b;c), symbol
+rifle, 0|0, 2-3, physical, on, None, ╻
+cannon, 1|1, 5, physical, off, None, ⚪
+big cannon, 1|1, 8, physical, on, full damage, ᗝ
+machine gun, 1|1, 3-7, physical, on, full damage, ⨇
+ultra gun, 1|1, 3-7, physical, on, full damage;first blood, ⍟
+magic lash, 1|1, 6, magic, of, first blood, ⍟

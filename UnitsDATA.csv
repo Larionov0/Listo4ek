@@ -1,0 +1,5 @@
+unit, hp, move, weapons(bla;bla;bla), armor(physical;magic;fire), pay
+soldiers, 5, 1, 1_rifle, 0;0;0, 5
+turrets, 15, 0, 1_cannon, 0;0;0, 5
+tanks, 20, 1, 1_big cannon, 1;0;0, 15
+cupola, 30, 0, 2_cannon + 2_machine gun, 1;1;1, 15

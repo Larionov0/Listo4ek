@@ -1,0 +1,7 @@
+lvl, wave, reward, enemies
+1, 1, 4_soldiers|1_turrets, 3-5$10_soldiers + 0-1$20_turrets
+1, 2, 2_turrets, 5-8$10_soldiers + 1-2$20_turrets
+1, 3, 100_coins, 1_tanks
+2, 1, 3_turrets|1_tanks, 3-6$10_soldiers + 1-2$20_turrets + 1$40_tanks|18$10_soldiers
+2, 2, 1_cupola, 3$40_tanks
+2, 3, 5_turrets, 2_tanks + 2_turrets + 2_soldiers
