@@ -5,6 +5,7 @@ from data_handler import data as waves_data, units_data, weapons_data
 from random import choice, randint
 from funks import *
 
+
 delete_data = {}
 
 def add_delete_message(chat_id,message_id):
